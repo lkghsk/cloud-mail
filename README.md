@@ -2,25 +2,26 @@
     <img src="doc/demo/logo.png" width="80px" />
     <h1 align="center">Cloud Mail</h1>
     <p align="center">基于 Cloudflare 的简约响应式邮箱服务，支持邮件发送、附件收发 🎉</p> 
-    <p align="center">
-        简体中文 | <a href="/README-en.md" style="margin-left: 5px">English </a>
+    <p align="center" >
+        <a href="https://022335.xyz">在线演示</a> · <a href="https://docs.022335.xyz">部署文档</a> ·
+        <a align="center"><a href="README_en.md">English</a> | 简体中文</a>
     </p>
-    <p align="center">
-        <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
-            <img src="https://img.shields.io/badge/license-MIT-green" />
-        </a>    
+    <p align="center"> 
         <a href="https://github.com/maillab/cloud-mail/releases" target="_blank" >
-            <img src="https://img.shields.io/github/v/release/maillab/cloud-mail" alt="releases" />
+            <img src="https://img.shields.io/github/v/release/maillab/cloud-mail?style=flat-square" alt="releases" />
         </a>  
         <a href="https://github.com/maillab/cloud-mail/issues" >
-            <img src="https://img.shields.io/github/issues/maillab/cloud-mail" alt="issues" />
+            <img src="https://img.shields.io/github/issues/maillab/cloud-mail?style=flat-square" alt="issues" />
         </a>  
         <a href="https://github.com/maillab/cloud-mail/stargazers" target="_blank">
-            <img src="https://img.shields.io/github/stars/maillab/cloud-mail" alt="stargazers" />
+            <img src="https://img.shields.io/github/stars/maillab/cloud-mail?style=flat-square" alt="stargazers" />
         </a>  
         <a href="https://github.com/maillab/cloud-mail/forks" target="_blank" >
-            <img src="https://img.shields.io/github/forks/maillab/cloud-mail" alt="forks" />
+            <img src="https://img.shields.io/github/forks/maillab/cloud-mail?style=flat-square" alt="forks" />
         </a>
+        <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
+            <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
+        </a>  
     </p>
     <p align="center">
         <a href="https://trendshift.io/repositories/20459" target="_blank" >
@@ -44,6 +45,13 @@
 | ![](/doc/demo/demo3.png) | ![](/doc/demo/demo4.png) |
 
 
+## 推荐项目
+
+<p style="display: flex; align-items: center; gap: 10px">
+    <img width="30px" src="https://img.022335.xyz/logo.png" alt=""> 
+    <a>Pixtale</a>
+    <span>一个自托管云存储相册应用</span>
+</p>
 
 
 ## 功能介绍

@@ -6,20 +6,27 @@
        <a href="/README.md" style="margin-left: 5px">简体中文</a> | English 
     </p>
     <p align="center">
+        <a href="https://www.cloudflare.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
+        </a>
+        <a href="https://developers.cloudflare.com/workers/" target="_blank">
+            <img src="https://img.shields.io/badge/Workers-F38020?style=flat-square&amp;logo=cloudflareworkers&amp;logoColor=white" alt="Cloudflare Workers" />
+        </a>
+        <br />
         <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
-            <img src="https://img.shields.io/badge/license-MIT-green" />
+            <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
         </a>    
         <a href="https://github.com/maillab/cloud-mail/releases" target="_blank" >
-            <img src="https://img.shields.io/github/v/release/maillab/cloud-mail" alt="releases" />
+            <img src="https://img.shields.io/github/v/release/maillab/cloud-mail?style=flat-square" alt="releases" />
         </a>  
         <a href="https://github.com/maillab/cloud-mail/issues" >
-            <img src="https://img.shields.io/github/issues/maillab/cloud-mail" alt="issues" />
+            <img src="https://img.shields.io/github/issues/maillab/cloud-mail?style=flat-square" alt="issues" />
         </a>  
         <a href="https://github.com/maillab/cloud-mail/stargazers" target="_blank">
-            <img src="https://img.shields.io/github/stars/maillab/cloud-mail" alt="stargazers" />
+            <img src="https://img.shields.io/github/stars/maillab/cloud-mail?style=flat-square" alt="stargazers" />
         </a>  
         <a href="https://github.com/maillab/cloud-mail/forks" target="_blank" >
-            <img src="https://img.shields.io/github/forks/maillab/cloud-mail" alt="forks" />
+            <img src="https://img.shields.io/github/forks/maillab/cloud-mail?style=flat-square" alt="forks" />
         </a>
     </p>
     <p align="center">
