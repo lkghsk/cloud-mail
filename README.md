@@ -7,17 +7,17 @@
         <a align="center"><a href="README_en.md">English</a> | 简体中文</a>
     </p>
     <p align="center"> 
+        <a href="https://hono.dev/" target="_blank">
+            <img src="https://img.shields.io/badge/Hono-4.12-E36002?style=flat-square&amp;labelColor=000000&amp;logo=hono&amp;logoColor=white" alt="Hono 4.12.16" />
+        </a>
+        <a href="https://vuejs.org/" target="_blank">
+            <img src="https://img.shields.io/badge/Vue-3.5-4FC08D?style=flat-square&amp;labelColor=000000&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue 3.5.13" />
+        </a>
+        <a href="https://orm.drizzle.team/" target="_blank">
+            <img src="https://img.shields.io/badge/Drizzle-0.42-C5F74F?style=flat-square&amp;labelColor=000000&amp;logo=drizzle&amp;logoColor=white" alt="Drizzle 0.42.0" />
+        </a>
         <a href="https://github.com/maillab/cloud-mail/releases" target="_blank" >
             <img src="https://img.shields.io/github/v/release/maillab/cloud-mail?style=flat-square" alt="releases" />
-        </a>  
-        <a href="https://github.com/maillab/cloud-mail/issues" >
-            <img src="https://img.shields.io/github/issues/maillab/cloud-mail?style=flat-square" alt="issues" />
-        </a>  
-        <a href="https://github.com/maillab/cloud-mail/stargazers" target="_blank">
-            <img src="https://img.shields.io/github/stars/maillab/cloud-mail?style=flat-square" alt="stargazers" />
-        </a>  
-        <a href="https://github.com/maillab/cloud-mail/forks" target="_blank" >
-            <img src="https://img.shields.io/github/forks/maillab/cloud-mail?style=flat-square" alt="forks" />
         </a>
         <a href="https://github.com/maillab/cloud-mail/tree/main?tab=MIT-1-ov-file" target="_blank" >
             <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" />
@@ -37,9 +37,6 @@
 
 ## 项目展示
 
-- [在线演示](https://skymail.ink)<br>
-- [部署文档](https://doc.skymail.ink)<br>
-
 | ![](/doc/demo/demo1.png) | ![](/doc/demo/demo2.png) |
 |-----------------------|-----------------------|
 | ![](/doc/demo/demo3.png) | ![](/doc/demo/demo4.png) |
@@ -47,7 +44,19 @@
 
 ## 推荐项目
 
-<img width="30" src="https://img.022335.xyz/logo.png" alt="Pixtale" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/pixtalelab/pixtale">Pixtale</a>&nbsp;&nbsp;一个自托管云存储相册应用
+<table>
+  <tr>
+    <td valign="middle">
+      <img width="30" src="https://img.022335.xyz/logo.png" alt="Pixtale">
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/pixtalelab/pixtale">Pixtale</a>
+    </td>
+    <td valign="middle">
+      一个自托管云存储相册应用
+    </td>
+  </tr>
+</table>
 
 ## 功能介绍
 
