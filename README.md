@@ -48,7 +48,7 @@
 ## 推荐项目
 
 <p>
-  <img width="30" src="https://img.022335.xyz/logo.png" alt="Pixtale" align="center">
+  <img width="30" src="https://img.022335.xyz/logo.png" alt="Pixtale" align="middle">
   &nbsp;
   <a href="https://github.com/pixtalelab/pixtale">Pixtale</a>
   &nbsp;
