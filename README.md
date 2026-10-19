@@ -47,12 +47,13 @@
 
 ## 推荐项目
 
-<p style="display: flex; align-items: center; gap: 10px">
-    <img width="30px" src="https://img.022335.xyz/logo.png" alt=""> 
-    <a href="https://github.com/pixtalelab/pixtale">Pixtale</a>
-    <span>一个自托管云存储相册应用</span>
+<p>
+  <img width="30" src="https://img.022335.xyz/logo.png" alt="Pixtale" align="center">
+  &nbsp;
+  <a href="https://github.com/pixtalelab/pixtale">Pixtale</a>
+  &nbsp;
+  一个自托管云存储相册应用
 </p>
-
 
 ## 功能介绍
 
