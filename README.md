@@ -49,7 +49,7 @@
 
 <p style="display: flex; align-items: center; gap: 10px">
     <img width="30px" src="https://img.022335.xyz/logo.png" alt=""> 
-    <a>Pixtale</a>
+    <a href="https://github.com/pixtalelab/pixtale">Pixtale</a>
     <span>一个自托管云存储相册应用</span>
 </p>
 
